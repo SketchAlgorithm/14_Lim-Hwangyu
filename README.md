@@ -1,2 +1,1 @@
-# 14_Lim-Hwangyu
-14학번 임환규입니다
+# https://github.com/lhwanstar/hwangyurithm
